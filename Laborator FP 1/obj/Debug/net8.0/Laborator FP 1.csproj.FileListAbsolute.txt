@@ -1,0 +1,14 @@
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\Laborator FP 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\Laborator FP 1.AssemblyInfoInputs.cache
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\Laborator FP 1.AssemblyInfo.cs
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\Laborator FP 1.csproj.CoreCompileInputs.cache
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\bin\Debug\net8.0\Laborator FP 1.exe
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\bin\Debug\net8.0\Laborator FP 1.deps.json
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\bin\Debug\net8.0\Laborator FP 1.runtimeconfig.json
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\bin\Debug\net8.0\Laborator FP 1.dll
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\bin\Debug\net8.0\Laborator FP 1.pdb
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\Laborator FP 1.dll
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\refint\Laborator FP 1.dll
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\Laborator FP 1.pdb
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\Laborator FP 1.genruntimeconfig.cache
+C:\Users\samuf\source\repos\Laborator FP 1\Laborator FP 1\obj\Debug\net8.0\ref\Laborator FP 1.dll
